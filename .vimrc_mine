@@ -1,0 +1,23 @@
+set number
+syntax on
+set wildmenu
+set showmatch
+set incsearch
+set hlsearch
+set foldenable
+set foldlevelstart=10
+set cursorline
+set cursorcolumn
+set ruler
+set nocompatible
+set encoding=utf-8
+set showcmd
+set nowrap
+set ignorecase
+set smartcase
+set nocompatible
+set clipboard+=unnamed
+set autoread
+set scrolloff=10
+set statusline=%F%m%r%h%w[%L][%{&ff}]%y[%p%%][%04l,%04v]
+
